@@ -1,0 +1,20 @@
+# Created by .ignore support plugin (hsz.mobi)
+/.idea/
+/ec2JavaBackend/.mvn/
+/ec2JavaBackend/src/main/java/com/simplesocialnetwork/user/profilePic/
+/ec2JavaBackend/src/main/resources/application.yml
+/ec2JavaBackend/src/main/resources/terraformOutputs.json
+/ec2JavaBackend/.idea/
+/ec2JavaBackend/bambaloni.jpg
+/ifrastructure-terraform/.idea/
+/ifrastructure-terraform/.terraform/
+/ifrastructure-terraform/node_modules/
+/ifrastructure-terraform/deploy.sh
+/ifrastructure-terraform/destroy.sh
+/ifrastructure-terraform/dev.tfvars
+/ifrastructure-terraform/terraform.tfstate
+/ifrastructure-terraform/terraform.tfstate.backup
+/ifrastructure-terraform/simpleSocialKeyEc2.pem
+/ifrastructure-terraform/variables.tf
+/react_redux_frontend/.idea/
+/react_redux_frontend/build/

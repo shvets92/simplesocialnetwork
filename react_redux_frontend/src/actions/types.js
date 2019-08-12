@@ -1,0 +1,35 @@
+export const FETCH_NEWS_FEED = 'FETCH_NEWS_FEED';
+export const FETCH_USER_POSTS = 'FETCH_USER_POSTS';
+export const NEW_POST = 'NEW_POST';
+export const NEW_COMMENT = 'NEW_COMMENT';
+export const FETCH_POST_COMMENTS = 'FETCH_POST_COMMENTS';
+export const LIKE_POST = 'LIKE_POST';
+export const UNLIKE_POST = 'UNLIKE_POST';
+export const LIKE_COMMENT = 'LIKE_COMMENT';
+export const UNLIKE_COMMENT = 'UNLIKE_COMMENT';
+export const FETCH_POST = 'FETCH_POST';
+
+export const FETCH_IMAGE = 'FETCH_IMAGE';
+export const REQUEST_IMAGE_FETCH = 'REQUEST_IMAGE_FETCH';
+export const POST_IMAGE = 'POST_IMAGE';
+export const NEW_PROFILE_PIC = 'NEW_PROFILE_PIC';
+
+export const CREATE_ACCOUNT = 'CREATE_ACCOUNT';
+export const LOGIN = 'LOGIN';
+export const LOGIN_FAILED = 'LOGIN_FAILED';
+export const LOGOUT = 'LOGOUT';
+export const UPDATE = 'UPDATE';
+export const NEW_BIO = 'NEW_BIO';
+export const FETCH_NOTIFICATIONS = 'FETCH_NOTIFICATIONS';
+
+export const USER_SEARCH = 'USER_SEARCH';
+export const FETCH_USER_PROFILE = 'FETCH_USER_PROFILE';
+export const UPDATE_PROFILE_RELATIONSHIP = 'UPDATE_PROFILE_RELATIONSHIP';
+
+export const NAVIGATE_TO = 'NAVIGATE_TO';
+
+export const OPEN_POPOUT = 'OPEN_POPOUT';
+
+export const FETCH_USER_FRIENDS = 'FETCH_USER_FRIENDS';
+export const FETCH_FRIEND_REQUESTS = 'FETCH_FRIEND_REQUESTS';
+export const RESPOND_TO_REQUEST = 'RESPOND_TO_REQUEST';

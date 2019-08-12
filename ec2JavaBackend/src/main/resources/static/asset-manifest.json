@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9f54a09e.chunk.css",
+    "main.js": "/static/js/main.a6841fd6.chunk.js",
+    "main.js.map": "/static/js/main.a6841fd6.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/css/2.4b7cdbbd.chunk.css": "/static/css/2.4b7cdbbd.chunk.css",
+    "static/js/2.a5f03829.chunk.js": "/static/js/2.a5f03829.chunk.js",
+    "static/js/2.a5f03829.chunk.js.map": "/static/js/2.a5f03829.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.e7268080b1d3e7a0bdd87551f4f52af3.js": "/precache-manifest.e7268080b1d3e7a0bdd87551f4f52af3.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.4b7cdbbd.chunk.css.map": "/static/css/2.4b7cdbbd.chunk.css.map",
+    "static/css/main.9f54a09e.chunk.css.map": "/static/css/main.9f54a09e.chunk.css.map",
+    "static/media/Simple Social Network.svg": "/static/media/Simple Social Network.8d2b3480.svg"
+  }
+}
